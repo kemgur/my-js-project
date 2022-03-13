@@ -7,6 +7,7 @@ console.log(name);//undefined
 //Declaring name variable with initial value
 var name = 'Ahmet';
 console.log(name);//Ahmet
+//
 
 var name="Javascript";
 console.log(name);//Javascript
